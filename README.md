@@ -1,14 +1,12 @@
-📘 MongoDB Crash Course
-
-🚀 Overview
+<h1 align="center">📘 MongoDB Crash Course</h2>
+<h2 align="left">🚀 Overview </h2>
 
 This repository contains everything I learned and practiced during my MongoDB Crash Course — from the absolute basics to performing real CRUD operations using the Mongo Shell, Compass, and Node.js.
 
 It’s a hands-on guide for beginners who want to understand how MongoDB works as a NoSQL database and how to use it effectively in full-stack development.
 
----
 
-🧠 What You’ll Learn
+<h2 align="left">🧠 What You’ll Learn </h2>
 
 ✅ Understanding MongoDB basics — documents, collections, and databases
 
@@ -24,9 +22,9 @@ It’s a hands-on guide for beginners who want to understand how MongoDB works a
 
 ✅ Best practices for schema design
 
----
 
-🧰 Tech Stack
+
+<h2 align="left">🧰 Tech Stack </h2>
 
 - Database: MongoDB
 
@@ -36,9 +34,9 @@ It’s a hands-on guide for beginners who want to understand how MongoDB works a
 
 - Cloud Option: MongoDB Atlas
 
----
 
-📘 Learning Resources
+
+<h2 align="left">📘 Learning Resources </h2>
 
 Here are some excellent resources I used:
 
@@ -50,9 +48,9 @@ Here are some excellent resources I used:
 
 - MongoDB Atlas Setup Guide
 
----
 
-🧑‍💻 Author
+
+ <h2 align="left">🧑‍💻 Author </h2>
 
 👩‍💻 Anakha S
 
@@ -62,15 +60,15 @@ Here are some excellent resources I used:
 
 🌐 LinkedIn Profile -https://www.linkedin.com/in/anakha-s-a76081356/
 
----
 
-⭐ Support
+
+ <h2 align="left">⭐ Support </h2>
 
 If you find this helpful, don’t forget to ⭐ star the repo — it helps others discover it too!
 
----
 
-📝 License
+
+ <h2 align="left">📝 License </h2>
 
 This project is open-source and available under the MIT License
 .
