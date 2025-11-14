@@ -5,7 +5,6 @@ This repository contains everything I learned and practiced during my MongoDB Cr
 
 It’s a hands-on guide for beginners who want to understand how MongoDB works as a NoSQL database and how to use it effectively in full-stack development.
 
-
 <h2 align="left">🧠 What You’ll Learn </h2>
 
 ✅ Understanding MongoDB basics — documents, collections, and databases
